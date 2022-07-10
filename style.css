@@ -1,0 +1,21 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+.container{
+  height: 70%;
+  width: 50%;
+  background-color: violet;
+  margin: auto;
+  border: 3px solid black;
+  padding: 10px;
+  font-family: "Papyrus", "Courier New", monospace;
+}
+.heading1{
+  align-content: center;
+  align-items: center;
+  margin: 10px;
+  align-self: center;
+  text-align: center;
+  color: white;
+}
